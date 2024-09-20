@@ -38,6 +38,7 @@ body{
 #area-lateral{
   width: 240px;
   float: right;
+  text-align: center;
 }
 
 .postagem{
